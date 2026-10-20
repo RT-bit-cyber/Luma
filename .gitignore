@@ -1,0 +1,17 @@
+.build/
+.build-tests/
+.swiftpm/
+.DS_Store
+dist/
+*.app/
+*.dSYM/
+*.zip
+# Local development history and obsolete layout fixture
+VERIFICATION.md
+Design/Popover-layout.png
+# Personal configuration and signing material
+.env
+.env.*
+*.p12
+*.p8
+*.mobileprovision
